@@ -2,7 +2,7 @@ import turtle
 
 drawing_screen = turtle.Screen()
 drawing_screen.bgcolor("Light green")
-drawing_screen.title("Python Turtle")
+drawing_screen.title("Turtle Python")
 
 
 turtle_instance = turtle.Turtle()
